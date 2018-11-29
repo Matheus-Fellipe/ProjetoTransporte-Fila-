@@ -1,0 +1,7 @@
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Pilha)\projAeroporto\bin\Debug\projAeroporto.exe.config
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Pilha)\projAeroporto\bin\Debug\projAeroporto.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Pilha)\projAeroporto\bin\Debug\projAeroporto.pdb
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Pilha)\projAeroporto\obj\Debug\ProjetoAeroporto.csprojAssemblyReference.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Pilha)\projAeroporto\obj\Debug\ProjetoAeroporto.csproj.CoreCompileInputs.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Pilha)\projAeroporto\obj\Debug\projAeroporto.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Pilha)\projAeroporto\obj\Debug\projAeroporto.pdb
